@@ -61,6 +61,6 @@ function Kelvin_to_celsius(degree)
 }
 function Celsius_to_kelvin(degree)
 {
-    result1.result.value=(degree+273.15)+" K";
+    result1.result.value=((degree*1)+273.15)+" K";
 }
        
